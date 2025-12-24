@@ -1,0 +1,1680 @@
+Join Discord
+Settings
+Friends
+Players
+Favorite Mods
+Enabled Mods
+Room Mods
+Important Mods
+Safety Mods
+Movement Mods
+Advantage Mods
+Visual Mods
+Fun Mods
+Sound Mods
+Projectile Mods
+Master Mods
+Overpowered Mods
+Experimental Mods
+Detected Mods
+Credits
+Exit Settings
+Menu Settings
+Keybind Settings
+Rebind Settings
+Plugin Settings
+Soundboard Settings
+Friend Settings
+Room Settings
+Safety Settings
+Movement Settings
+Advantage Settings
+Visual Settings
+Fun Settings
+Overpowered Settings
+Detected Settings
+Projectile Settings
+Exit Menu Settings
+Right Hand
+Both Hands
+One Handed Menu
+Joystick Menu
+Physical Menu
+Wrist Menu
+Watch Menu
+Console Menu
+Shiny Menu
+Transparent Menu
+Crystallize Menu
+Explode Menu
+Thick Menu
+Long Menu
+Flip Menu
+Round Menu
+Outline Menu
+Outline Text
+Inner Outline Menu
+Smooth Menu Position
+Smooth Menu Rotation
+Freeze Player in Menu
+Freeze Rig in Menu
+Zero Gravity Menu
+Menu Collisions
+Player Scale Menu
+Alphabetize Menu
+Custom Menu Name
+Menu Trail
+Dynamic Animations
+Slow Dynamic Animations
+Dynamic Gradients
+Horizontal Gradients
+Scrolling Gradients
+Dynamic Sounds
+Disable Adaptive Buttons
+Incremental Boost
+Page Scrolling
+Exclusive Page Sounds
+Particle Spawn Effect
+Gradient Title
+Animated Title
+Voice Commands
+Chain Voice Commands
+AI Assistant
+Narrate Assistant
+Global Narrate Assistant
+Global Dynamic Sounds
+Debug Dictation
+Custom System Prompt
+Reset Voice Commands Keywords
+Reset System Prompt
+Player Select
+Annoying Mode
+Lowercase Mode
+Uppercase Mode
+Overflow Mode
+Change Menu Language
+Change Menu Button
+Change Menu Theme
+Slow Gradient Fade
+Change Menu Scale
+Change Notification Scale
+Change Arraylist Scale
+Change Overlay Scale
+Change Page Size
+Custom Menu Theme
+Change Custom Menu Theme
+Custom Menu Background
+Custom Watermark
+Disable Watermark
+Change Page Type
+Change Arrow Type
+Change Font Type
+Rapid Font Changer
+Change Font Style Type
+Change Input Text Color
+Change PC Menu Background
+Change Joystick Menu Position
+Change Notification Time
+Change Notification Sound
+Notification Sound on Error
+Change Narration Voice
+Change Pointer Position
+Swap GUI Colors
+Swap Button Colors
+Swap Ghostview Colors
+Change Gun Line Quality
+Change Gun Variation
+Change Gun Direction
+Gun Sounds
+Gun Vibrations
+Gun Particles
+Swap Gun Hand
+Gripless Guns
+Triggerless Guns
+Hard Gun Lock
+Small Gun Pointer
+Smooth Gun Pointer
+Disable Gun Pointer
+Disable Gun Line
+Checkbox Buttons
+Change Button Sound
+Change Button Volume
+Serversided Button Sounds
+Disable Button Vibration
+Clear Notifications on Disconnect
+Hide Notifications on Camera
+Stack Notifications
+Narrate Notifications
+No Prefix Narration
+Hide Notification Brackets
+Conduct Notifications
+Disable Notification Rich Text
+Disable Notifications
+Disable Master Client Notifications
+Disable Room Notifications
+Disable Player Notifications
+Disable Enabled GUI
+Disable Incremental Buttons
+Disable Disconnect Button
+Disable Menu Title
+Disable Search Button
+Disable Return Button
+Disable Watermark Animation
+Disable Page Buttons
+Disable Page Number
+Disable FPS Counter
+Disable Drop Menu
+Disable Board Colors
+Disable Custom Text Colors
+Disable Keyboard Delay
+Disable PC Keyboard Sounds
+Info Hide ID
+Conduct Info
+Info Button
+Hide Text on Camera
+Hide Pointer
+Hide Settings
+Hide Macros
+High Quality Text
+Advanced Arraylist
+Flip Arraylist
+Slow FPS Counter
+Average FPS Counter
+Frametime Counter
+Disable Ghostview
+Legacy Ghostview
+No Global Search
+Joystick Menu Search
+Menu Presets
+Backup Preferences
+Save Preferences
+Load Preferences
+Disable Autosave
+Panic
+Exit Room Settings
+crTime
+Exit Movement Settings
+Change Platform Type
+Change Platform Shape
+Platform Gravity
+Platform Outlines
+Non-Sticky Platforms
+Grip Noclip
+Constant Noclip
+Left Hand Wall Walk
+Both Hands Wall Walk
+Change Fly Speed
+Change Playspace Abuse Speed
+Change Arm Length
+Change Speed Boost Amount
+Change Wall Walk Strength
+Change Pull Mod Power
+Change Prediction Amount
+Change Timer Speed
+cdSpeed
+Factored Speed Boost
+Disable Max Speed Modification
+Disable Size Changer Buttons
+Pass World Scale Checks
+Midpoint Macors
+Direction Based Macors
+Change Macro Playback Range
+Hand Oriented Strafe
+Disable Stationary WASD Fly
+Networked Grapple Mods
+Non-Togglable Ghost
+Non-Togglable Invisible
+Splash Intercourse
+Reverse Intercourse
+Elevated Sticky Drive
+Knockback Multiplication Amount
+High Quality Portals
+Exit Projectile Settings
+Change Projectile
+Random Projectile
+Random Direction
+Random Color
+Change Shoot Speed
+Shoot Projectiles
+Include Hand Velocity
+Above Players
+Rain Projectiles
+Projectile Aura
+True Projectile Aura
+Projectile Fountain
+Rainbow Projectiles
+Hard Rainbow Projectiles
+RedProj
+GreenProj
+BlueProj
+Custom Colored Projectiles
+Client Sided Projectiles
+Override Projectile Index
+Change Projectile Index
+Change Projectile Delay
+Disable Snowball Impact Effect
+Change Snowball Scale
+Change Snowball Multiplication Factor
+No Teleport Snowballs
+Exit Room Mods
+Disconnect
+Reconnect
+Cancel Reconnect
+Join Last Room
+Join Random
+Create Public
+Fast Disconnect
+Join Menu Room
+Bypass Join Room Type
+Auto Join Room
+Auto Join Room "RUN"
+Auto Join Room "DAISY"
+Auto Join Room "DAISY09"
+Auto Join Room "PBBV"
+Auto Join Room "BOT"
+Auto Join Room "LUCIO"
+Auto Join Room "VEN1"
+Auto Join Room "SREN17"
+Auto Join Room "SREN18"
+Auto Join Room "SREN16"
+Auto Join Room "HELP"
+Auto Join Room "STATUE"
+Auto Join Room "ECHO"
+Auto Join Room "MOD"
+Auto Join Room "MODS"
+Auto Join Room "LEMUR"
+Auto Join Room "JMANCURLY"
+Auto Join Room "JMAN"
+Auto Join Room "ELLIOT"
+Auto Join Room "TYLERVR"
+Auto Join Room "JUANGTAG"
+Auto Join Room "GHOST"
+Auto Join Room "GULLIBLE"
+Auto Join Room "GAY"
+Auto Join Room "FURRY"
+Auto Join Room "FORSAKEN"
+Exit Important Mods
+Exit Gorilla Tag
+Restart Gorilla Tag
+Open Gorilla Tag Folder
+Discord RPC
+Anti Hand Tap
+First Person Camera
+Force Enable Hands
+Oculus Report Menu <color=grey>[</color><color=green>X</color><color=grey>]</color>
+Accept TOS
+Bypass K-ID Restrictions
+Redeem Shiny Rocks
+Copy Player Position
+Clear Notifications
+Anti AFK
+Disable Network Triggers
+Disable Map Triggers
+Disable Quit Box
+Physical Quit Box
+Stump Quit Box
+Steam Refund Timer
+90 FPS
+72 FPS
+60 FPS
+45 FPS
+30 FPS
+15 FPS
+Unlock FPS
+PC Button Click
+PC Controller Emulation
+Unlock Competitive Queue
+Change Queue to Default
+Change Queue to Minigames
+Change Queue to Competitive
+Change Target Gamemode <color=grey>[</color><color=green>Casual</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Infection</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Hunt</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Paintbrawl</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Ambush</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Freeze Tag</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Ghost Tag</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Custom</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Guardian</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Prop Hunt</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Super Infection</color><color=grey>]</color>
+Change Target Gamemode <color=grey>[</color><color=green>Error</color><color=grey>]</color>
+Connect to US
+Connect to US West
+Connect to EU
+Exit Safety Mods
+Disable Anti Telemetry
+Recommended Safety Mods
+No Finger Movement
+Fake Oculus Menu <color=grey>[</color><color=green>X</color><color=grey>]</color>
+Fake Report Menu <color=grey>[</color><color=green>Y</color><color=grey>]</color>
+Fake Broken Controller <color=grey>[</color><color=green>X</color><color=grey>]</color>
+Fake Power Off <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Fake Valve Tracking <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Disable Gamemode Buttons
+Support Page Spoof
+Flush RPCs
+Anti Crash
+Anti Ban Crash
+Anti Kick
+Anti Name Ban
+Anti Stump Kick
+Auto Clear Cache
+Anti Moderator
+Cosmetic Notifications
+Bypass Automod
+Bypass Mod Checkers
+Bypass Cosmetic Check
+Anti Predictions
+Anti Report <color=grey>[</color><color=green>Disconnect</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Reconnect</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Join Random</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Oculus</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Anti Cheat</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Notify</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Overlay</color><color=grey>]</color>
+Show Anti Cheat Reports <color=grey>[</color><color=green>Self</color><color=grey>]</color>
+Show Anti Cheat Reports <color=grey>[</color><color=green>All</color><color=grey>]</color>
+Change Identity
+Change Identity <color=grey>[</color><color=green>Normal</color><color=grey>]</color>
+Change Identity <color=grey>[</color><color=green>Custom</color><color=grey>]</color>
+Change Identity on Disconnect
+Change Identity on Disconnect <color=grey>[</color><color=green>Normal</color><color=grey>]</color>
+Change Identity on Disconnect <color=grey>[</color><color=green>Child</color><color=grey>]</color>
+FPS Spoof
+Name Spoof
+Color Spoof
+Unload Menu
+Exit Movement Mods
+Platforms
+Trigger Platforms
+Frozone
+Platform Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Platform Gun
+Fly <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Trigger Fly <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Noclip Fly <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Joystick Fly <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Bark Fly <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Hand Fly <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Fly Towards Gun
+Slingshot Fly <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Zero Gravity Slingshot Fly <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Slingshot Bark Fly <color=grey>[</color><color=green>J</color><color=grey>]</color>
+WASD Fly
+Dash <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Reverse Velocity <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Bird Fly
+Iron Man
+Spider Man
+Grappling Hooks
+Portal Gun
+Drive <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Hard Drive <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Noclip <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Up And Down
+Left And Right
+Forwards And Backwards
+Size Changer
+Auto Walk <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Auto Funny Run <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Auto Pinch Climb <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Auto Elevator Climb <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Auto Branch <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Force Tag Freeze
+No Tag Freeze
+Feather Falling
+Low Gravity
+Zero Gravity
+High Gravity
+Reverse Gravity
+Rewind <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Macros
+Wall Walk <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Legitimate Wall Walk <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Spider Walk
+Teleport to Random
+Teleport to Map
+Teleport Gun
+Airstrike
+Checkpoint <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Advanced Checkpoints <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Ender Pearl <color=grey>[</color><color=green>G</color><color=grey>]</color>
+C4 <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Punch Mod
+Telekinesis
+Safety Bubble
+Solid Players
+Pull Mod <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Long Jump <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Velocity Long Arms
+Timer
+Speed Boost
+Grip Speed Boost
+Dynamic Speed Boost
+Uncap Max Velocity
+Always Max Velocity
+Disable Velocity Cap
+Funny Movement
+Slip Slap
+Slippery Hands
+Grippy Hands
+Slippery Surface Helper
+Sticky Hands
+Climby Hands
+Disable Hands
+Disable Body Collider
+Disable Head Collider
+Slide Control
+Weak Slide Control
+Throw Controllers
+Controller Flick
+Uncap Arm Length
+Steam Long Arms
+Stick Long Arms
+Multiplied Long Arms
+Vertical Long Arms
+Horizontal Long Arms
+Extenders <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Flick Jump <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Bunny Hop
+Strafe
+Dynamic Strafe
+Ground Helper <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Bouncy
+Solid Water
+Disable Water
+Air Swim
+Fast Swim
+Water Run Helper
+Disable Air
+Ghost <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Invisible <color=grey>[</color><color=green>B</color><color=grey>]</color>
+Rig Gun
+Grab Rig <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Spin Head X
+Spin Head Y
+Spin Head Z
+Spaz Rig <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Spaz Rig Hands <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Spaz Hands <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Random Spaz Head Position
+Random Spaz Head
+Spaz Head Position
+Spaz Head
+Spaz Head X
+Spaz Head Y
+Spaz Head Z
+Laggy Rig
+Smooth Rig
+Update Rig <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Freeze Rig Limbs
+Freeze Rig Body
+Freeze Rig
+Paralyze Rig
+Chicken Rig
+Amputate Rig
+Spin Rig Body
+Spaz Rig Body
+Reverse Rig Body
+Rec Room Body
+Freeze Body Rotation <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Auto Dance <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Auto Griddy <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Auto T Pose <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Helicopter <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Beyblade <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Still Beyblade <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Spin Bot
+Fan <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Ghost Animations
+Minecraft Animations
+Stare at Nearby
+Stare at Player Gun
+Stare at All Players
+Eye Contact
+Floating Rig
+Bees
+Piggyback Gun
+Piggyback All
+Copy Movement Gun
+Copy Movement All
+Follow Player Gun
+Follow All Players
+Orbit Player Gun
+Orbit All Players
+Jumpscare Gun
+Jumpscare All
+Annoy Player Gun
+Annoy All Players
+Intercourse Gun
+Intercourse All
+Head Gun
+Head All
+Exit Advantage Mods
+Tag Self
+Tag Aura
+Grip Tag Aura <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Tag Aura Gun
+Tag Aura All
+Tag Reach
+Tag Gun
+Flick Tag Gun
+Tag All
+Tag Bot
+No Tag on Join
+Untag Self
+Anti Tag
+Report Anti Tag
+No Tag Limit
+Tag Lag Detector
+Steam Detector
+Fake Lag
+Lag Range
+Blink
+Paintbrawl Aimbot
+Slingshot Helper
+Slingshot Trigger Bot
+Paintbrawl Kill Self
+Paintbrawl Kill Gun
+Paintbrawl Kill All
+Exit Visual Mods
+Morning Time
+Day Time
+Evening Time
+Night Time
+Fullbright
+Remove Blindfold
+Spawn Lightning
+Core ESP
+Critter ESP
+Creature ESP
+Enemy ESP
+Resource ESP
+Enable Snow
+Rainy Weather
+Clear Weather
+Disable Fog
+Enable Fog
+Disable Ambience
+Custom Skybox Color
+Draw Gun
+Gamesense Ring
+Velocity Label
+Nearby Label
+Last Label
+Time Label
+FPS Overlay
+Ping Overlay
+Time Overlay
+Playtime Overlay
+Lightning Time Overlay
+Room Information Overlay
+Networking Overlay
+Clipboard Overlay
+Velocity Overlay
+Nearby Overlay
+Info Watch
+FPS Boost
+Freeze In Background
+Fake Unban Self
+Jump Predictions
+Hitbox Predictions
+Paintbrawl Trajectories
+Audio Visualizer
+Show Server Position
+Show Scheduled Objects
+Visualize Network Triggers
+Visualize Wind Barriers
+Visualize Map Triggers
+Name Tags
+Velocity Name Tags
+FPS Name Tags
+ID Name Tags
+Platform Name Tags
+Creation Date Name Tags
+Ping Name Tags
+Turn Name Tags
+Tagged Name Tags
+Mod Name Tags
+Cosmetic Name Tags
+Verified Name Tags
+Lag Name Tags
+Compact Name Tags
+Fix Rig Colors
+Disable Rig Lerping
+Better Rig Lerping
+Remove Leaves
+Streamer Remove Leaves
+Remove Cosmetics
+X-Ray <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Cosmetic ESP
+Voice Indicators
+Voice ESP
+Platform Indicators
+Platform ESP
+No Limb Mode
+Casual Tracers
+Infection Tracers
+Hunt Tracers
+Automatic Tracers
+Nearest Tracer
+Casual Box ESP
+Infection Box ESP
+Hunt Box ESP
+Automatic Box ESP
+Casual Hollow Box ESP
+Infection Hollow Box ESP
+Hunt Hollow Box ESP
+Automatic Hollow Box ESP
+Casual Breadcrumbs
+Infection Breadcrumbs
+Hunt Breadcrumbs
+Automatic Breadcrumbs
+Casual Bone ESP
+Infection Bone ESP
+Hunt Bone ESP
+Automatic Bone ESP
+Casual Skeleton ESP
+Infection Skeleton ESP
+Hunt Skeleton ESP
+Automatic Skeleton ESP
+Casual Wireframe ESP
+Infection Wireframe ESP
+Hunt Wireframe ESP
+Automatic Wireframe ESP
+Chams
+Casual Chams
+Infection Chams
+Hunt Chams
+Automatic Chams
+Casual Beacons
+Infection Beacons
+Hunt Beacons
+Automatic Beacons
+Casual Distance ESP
+Infection Distance ESP
+Hunt Distance ESP
+Automatic Distance ESP
+Show Pointers
+Info Watch Menu Name
+Info Watch FPS
+Info Watch Time
+Info Watch Clipboard
+Info Watch Code
+Exit Fun Mods
+Custom Maps
+Upside Down Head
+Backwards Head
+Sideways Head
+Broken Neck
+Head Bang
+Flip Hands
+Loud Hand Taps
+Silent Hand Taps
+Instant Hand Taps
+Silent Hand Taps on Tag
+Water Splash Hands <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Give Water Splash Hands Gun
+Water Splash Walk
+Water Splash Aura
+Orbit Water Splash
+Water Splash Gun
+Confuse Player Gun
+Confuse All Players
+Schizophrenic Gun
+Reverse Schizophrenic Gun
+Boop
+Gong
+Slap
+Auto Clicker <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Keyboard Tracker
+Tag Sounds
+Free Camera <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Third Person Camera
+Flip Camera
+Camera FOV
+Spectate Gun
+Nausea
+LSD
+Jumpscare on Tag
+Jumpscare
+Mute Gun
+Mute All
+Report Gun
+Report All
+Trigger Anti Report Gun
+Trigger Anti Report All
+Break Mod Checkers
+Custom Mod Spoofer
+Mute DJ Sets
+Infinite Dreidel
+Low Quality Microphone
+Loud Microphone
+Mute Microphone
+High Pitch Microphone
+Low Pitch Microphone
+Reload Microphone
+Microphone Feedback
+Copy Voice Gun
+Narrate Text
+Save Narration
+Mask Voice
+Disable Pitch Scaling
+Disable Mouth Movement
+Activate All Doors <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Tap All Crystals <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Tap All Bells <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Trigger Leaf Pile Gun
+Get Bracelet <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Spam Bracelet <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Remove Bracelet
+Rainbow Bracelet
+Quest Noises <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Max Quest Score
+Custom Quest Score
+Matchmaking Tier Spoof
+Matchmaking Platform Spoof
+Badge Tier Spoof
+Ignore Friend Privacy
+Arcade Teleporter Effect Spam
+Stump Teleporter Effect Spam
+Open Basement Door
+Open Elevator Door
+Close Basement Door
+Close Elevator Door
+Basement Door Spam
+Elevator Door Spam
+Fake FPS
+Get Builder Watch
+Remove Builder Watch
+Joystick Rope Control <color=grey>[</color><color=green>J</color><color=grey>]</color>
+Broken Ropes
+Spaz Rope Gun
+Spaz All Ropes <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Fling Rope Gun
+Fling All Ropes Gun
+Fast Gliders
+Slow Gliders
+Glider Blind Gun
+Glider Blind All
+Fast Ropes
+Fast Ropes
+Rope Grab Reach
+No Respawn Gliders
+Anti Grab
+Anti Knockback
+Multiply Knockback
+Multiply Self Knockback
+Fast Throw
+Slow Throw
+Slingshot Self
+Angry Birds
+Large Snowballs
+Spaz Snowballs <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Multiply Snowballs
+Fast Snowballs
+Slow Snowballs
+Projectile Range
+Rainbow Held Projectiles
+Flash Held Projectiles
+Strobe Held Projectiles
+Custom Held Projectiles
+Snowball Buttocks
+Snowball Breasts
+Fast Hoverboard
+Slow Hoverboard
+Rainbow Hoverboard
+Strobe Hoverboard
+Random Hoverboard
+Global Hoverboard
+Black Screen Gun
+Black Screen All
+White Screen Gun
+White Screen All
+Flash Screen Gun
+Flash Screen All
+Strobe Screen Gun
+Strobe Screen All
+Rainbow Screen Gun
+Rainbow Screen All
+Hoverboard Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Spawn Hoverboard
+Start All Races
+Override Hand Link
+Disable Hand Link
+Anti Hand Link
+Fast Throw Players
+Noclip Building
+Overlap Building
+Small Building
+Multi Grab
+Block Size Toggle
+Grab All Nearby Blocks <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab All Selected Blocks <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Massive Block <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Select Block Gun
+Copy Block Info Gun
+Building Block Browser
+Grab Building Blocks <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Building Block Minigun <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Building Block Gun
+Orbit Building Blocks
+Rain Building Blocks
+Building Block Fountain
+Building Block Aura
+Building Block Text Gun
+Place Building Block Gun
+Destroy Building Block Gun
+Destroy Building Blocks
+Save Builder Table Data
+Load Builder Table Data
+Disable Critters Dome
+Enable Forest Dome
+Critter Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Minigun <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Gun
+Critter Sticky Goo Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Noise Maker Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Stun Bomb Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Sticky Trap Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Sticky Goo Gun
+Critter Noise Maker Gun
+Critter Stun Bomb Gun
+Critter Sticky Trap Gun
+Critter Shockwave Effect Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Sticky Effect Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Noise Effect Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Particle Effect Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Critter Shockwave Effect Gun
+Critter Sticky Effect Gun
+Critter Noise Effect Gun
+Critter Particle Effect Gun
+Grab ID Card <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Entity Reach
+Infinite Prop Distance
+Prop Noclip
+Spaz Tool Stations
+Purchase All Tool Stations
+Gate Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Core Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Slime Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Tool Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Flower Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Barrel Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Bug Enemy Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Large Bug Enemy Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Ranged Enemy Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Chaser Enemy Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Entity Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Gate Gun
+Core Gun
+Slime Gun
+Tool Gun
+Flower Gun
+Barrel Gun
+Bug Enemy Gun
+Large Bug Enemy Gun
+Ranged Enemy Gun
+Chaser Enemy Gun
+Entity Gun
+Rain Entities
+Entity Aura
+Entity Fountain
+Ghost Reactor Text Gun
+Destroy Entity Gun
+Infinite Jet Fuel
+Infinite Platforms
+Infinite Resources
+Complete All Quests
+Claim All Terminals
+Unlock All Gadgets
+No Blaster Cooldown
+Blaster Aimbot
+Blaster Laser Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Blaster Fling Gun
+Blaster Fling All
+Blaster Float Gun
+Blaster Float All
+Blaster Fling Towards Gun
+Blaster Fling Towards All
+Blaster Fling Away Gun
+Blaster Fling Away All
+Blaster Kick Gun
+Blaster Kick All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Blaster Crash Gun
+Blaster Crash All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Blaster Control Gun
+Stilt Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Thruster Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Yoyo Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Blaster Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Platform Deployer Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Gadget Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Resource Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Stilt Gun
+Thruster Gun
+Yoyo Gun
+Blaster Gun
+Platform Deployer Gun
+Gadget Gun
+Resource Gun
+Rain Gadgets
+Gadget Aura
+Gadget Fountain
+Super Infection Text Gun
+Destroy Gadget Gun
+Fire Sound Spam <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Bubble Gun
+Fire Gun
+White Color Gun
+White Color All
+Black Color Gun
+Black Color All
+Chicken Gun
+Chicken All
+Whoopee Cushion Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Whoopee Cushion Minigun <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Whoopee Cushion Gun
+Smoke Bomb Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Smoke Bomb Minigun <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Smoke Bomb Gun
+Firecracker Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Firecracker Minigun <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Firecracker Gun
+Spaz All Moles
+Auto Start Moles
+Auto Hit Moles
+Auto Hit Hazards
+No Respawn Bug
+No Respawn Firefly
+No Respawn Bat
+Permanent Bug
+Permanent Firefly
+Permanent Bat
+Bug Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Camera Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Everything Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Bug Phallus
+Bug Phallus Gun
+Bug Vibrate Gun
+Bug Vibrate All
+Holster Bug
+Holster Firefly
+Holster Bat
+Freeze Bug
+Freeze Firefly
+Freeze Bat
+Fast Bug
+Fast Firefly
+Fast Bat
+Fast Bug
+Fast Firefly
+Fast Bat
+Physical Bug
+Physical Firefly
+Physical Bat
+Physical Camera
+Grab Bug <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab Firefly <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab Bat <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab Camera <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab Tablet <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab Balloons <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Grab Gliders <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Bug Gun
+Firefly Gun
+Bat Gun
+Camera Gun
+Tablet Gun
+Balloon Gun
+Glider Gun
+Hoverboard Gun
+Spaz Bug
+Spaz Firefly
+Spaz Bat
+Spaz Camera
+Spaz Tablet
+Spaz Balloons
+Spaz Gliders
+Spaz Hoverboard
+Orbit Bug
+Orbit Firefly
+Orbit Bat
+Orbit Camera
+Orbit Tablet
+Orbit Balloons
+Orbit Gliders
+Orbit Hoverboards
+Bug Aura
+Firefly Aura
+Bat Aura
+Camera Aura
+Tablet Aura
+Balloon Aura
+Glider Aura
+Hoverboard Aura
+Ride Bug
+Ride Firefly
+Ride Bat
+Become Bug
+Become Firefly
+Become Bat
+Become Camera
+Become Tablet
+Become Balloon
+Become Hoverboard
+Destroy Bug
+Destroy Firefly
+Destroy Bat
+Destroy Camera
+Destroy Tablet
+Destroy Balloons
+Destroy Gliders
+Respawn Gliders
+Pop All Balloons
+Set Name to "STATUE"
+Set Name to "RUN"
+Set Name to "BEHINDYOU"
+Set Name to "iiOnTop"
+PBBV Name Cycle
+J3VU Name Cycle
+Run Rabbit Name Cycle
+Random Name Cycle
+Custom Name Cycle
+Strobe Color
+Strobe Color
+Rainbow Color
+Hard Rainbow Color
+Become "goldentrophy"
+Become "PBBV"
+Become "J3VU"
+Become "ECHO"
+Become "DAISY09"
+Become "STATUE"
+Become Child
+Become Hidden on Leaderboard
+Copy Identity Gun
+Copy Cosmetics Gun
+Change Accessories
+Spaz Accessories
+Spaz Cosmetics <color=grey>[</color><color=green>Others</color><color=grey>]</color>
+Spaz Balloon Cosmetics
+Cosmetic Spoof
+Cosmetic Browser
+Auto Spoof Cosmetics
+Auto Purchase Cosmetics
+Auto Purchase Current Cosmetics
+Disable Cosmetics on Tag
+Unlock All Cosmetics
+Unlimited Shiny Rocks
+Sticky Holdables
+Spaz Holdables
+Get ID Self
+Get ID Gun
+Narrate ID Self
+Narrate ID Gun
+Narrate ID All
+Get Creation Date Self
+Get Creation Date Gun
+Narrate Creation Date Gun
+Narrate Creation Date Self
+Grab Player Info
+Exit Rebind Settings
+Rebind A
+Rebind B
+Rebind X
+Rebind Y
+Rebind Left Grip
+Rebind Right Grip
+Rebind Left Trigger
+Rebind Right Trigger
+Rebind Left Joystick
+Rebind Right Joystick
+Clear Rebinds
+Exit Sound Mods
+Soundboard
+Bass Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Metal Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Wolf Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Cat Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Turkey Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Frog Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Bee Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Squeak Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Okay Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Scream Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Slap Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Jmancurly Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Random Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Earrape Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Ding Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Crystal Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Piano Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Big Crystal Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Pan Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+AK-47 Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Siren Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Tick Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Custom Sound ID
+Custom Sound Spam
+Override Tap Sound
+Exit Projectile Mods
+Grab Projectile <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Projectile Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Give Projectile Spam Gun
+Impact Spam
+Urine <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Feces <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Semen <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Vomit <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Spit <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Urine Gun
+Feces Gun
+Semen Gun
+Vomit Gun
+Spit Gun
+Projectile Blind Gun
+Projectile Blind All
+Projectile Lag Gun
+Projectile Lag All
+Snowball Airstrike Gun
+Snowball Gun
+Snowball Rain <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Snowball Hail <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Snowball Orbit <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Snowball Aura <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Snowball Minigun
+Give Snowball Minigun
+Snowball Boxing
+Snowball Dash <color=grey>[</color><color=green>A</color><color=grey>]</color>
+Snowball Particle Gun
+Snowball Impact Effect Gun
+Snowball Punch Mod
+Snowball Kamehameha
+Snowball Fling Aura
+Snowball Fling Gun
+Snowball Fling All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Snowball Fling Vertical Gun
+Snowball Fling Vertical All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Snowball Fling Towards Gun
+Snowball Fling Away Gun
+Snowball Fling Player Towards Gun
+Snowball Fling Player Away Gun
+Anti Report <color=grey>[</color><color=green>Snowball Fling</color><color=grey>]</color>
+Exit Master Mods
+MasterLabel
+Guardian Self
+Guardian Gun
+Guardian All
+Unguardian Self
+Unguardian Gun
+Unguardian All
+Red Color Self
+Red Color Gun
+Red Color All
+Blue Color Self
+Blue Color Gun
+Blue Color All
+Reset Color Self
+Reset Color Gun
+Reset Color All
+Strobe Color Self
+Strobe Color Gun
+Strobe Color All
+Material Self
+Material Gun
+Material All
+Guardian Spaz
+Spaz Prop Hunt
+Spaz Prop Hunt Objects
+Max Currency Self
+Max Currency Gun
+Max Currency All
+Add Currency Self
+Add Currency Gun
+Add Currency All
+Remove Currency Self
+Remove Currency Gun
+Remove Currency All
+Invincibility
+Start Shift
+End Shift
+Set Quota
+Ghost Reactor Freeze Gun
+Ghost Reactor Freeze All
+Kill Self
+Kill Gun
+Kill All
+Revive Self
+Revive Gun
+Revive All
+Spaz Kill Self
+Spaz Kill Gun
+Spaz Kill All
+Unlimited Building
+Shotgun <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Block Crash Gun
+Block Crash All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Block Anti Report
+Block Draw Gun
+Block Build Gun
+Block Tower Gun
+Block Freeze Gun
+Block Freeze All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Block Float Gun
+Spaz Targets
+Slow Monsters
+Fast Monsters
+Grab Monsters <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Monster Gun
+Spaz Monsters
+Orbit Monsters
+Destroy Monsters
+Infection to Tag
+Tag to Infection
+Untag Gun
+Untag All
+Spam Tag Self
+Spam Tag Gun
+Spam Tag All
+Rock Self
+Rock Gun
+Rock All
+Give Tag Lag Gun
+Tag Lag Gun
+Tag Lag
+Bonk Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Count Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Brawl Count Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Brawl Start Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Tag Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Round End Sound Spam <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Paintbrawl Start Game
+Paintbrawl End Game
+Paintbrawl Restart Game
+Paintbrawl Restart Spam
+Paintbrawl Balloon Spam Self
+Paintbrawl Balloon Spam Gun
+Paintbrawl Balloon Spam All
+Paintbrawl Revive Self
+Paintbrawl Revive Gun
+Paintbrawl Revive All
+Paintbrawl No Delay
+Paintbrawl God Mode
+Slow Self
+Slow Gun
+Slow All
+Vibrate Self
+Vibrate Gun
+Vibrate All
+Exit Overpowered Mods
+Always Guardian
+Guardian Protector
+Grab Gun
+Grab All <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Release Gun
+Release All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Fling Gun
+Fling All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Bring Gun
+Bring All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Bring All Gun
+Guardian Bring Away Gun
+Guardian Bring Away All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Bring Away All Gun
+Guardian Anti Stump
+Guardian Orbit All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Guardian Punch Mod
+Guardian Boxing
+Guardian Give Fly Gun
+Guardian Give Fly All
+Spaz Player Gun
+Spaz All Players <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Effect Spam Hands <color=grey>[</color><color=green>G</color><color=grey>]</color>
+Effect Spam Gun
+Physical Freeze Gun
+Physical Freeze All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Guardian Kick Gun
+Guardian Kick All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Guardian Crash Gun
+Guardian Crash All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Ghost Reactor Crash Gun
+Ghost Reactor Crash All
+Super Infection Crash Gun
+Super Infection Crash All
+Super Infection Break Audio Gun
+Super Infection Break Audio All
+Delay Ban Gun
+Delay Ban All
+Force Grab
+Kick on Grab
+Crash on Grab
+Fling on Grab
+Obliterate on Grab
+Towards Point on Grab Gun
+Freeze All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Anti Report <color=grey>[</color><color=green>Fling</color><color=grey>]</color>
+Lag Gun
+Lag All
+Lag Aura
+Lag On Touch
+Barrel Fling Gun
+Barrel Fling All
+Barrel Punch Mod
+Barrel Crash Gun
+Barrel Crash All
+Barrel Fling Towards Gun
+Barrel Fling Towards All
+Barrel City Kick Gun
+Barrel City Kick All
+Barrel Kick Gun
+Barrel Kick All
+Anti Report <color=grey>[</color><color=green>Lag</color><color=grey>]</color>
+Lock Room
+Unlock Room
+Destroy Gun
+Destroy All
+Stump Kick Gun
+Stump Kick All
+Elevator Kick Gun
+Elevator Kick All
+Kick Master Client
+Instant Party
+Leave Party
+Party Break Network Triggers
+Kick All in Party
+Ban All in Party
+Auto Party Kick
+Auto Party Ban
+Break Audio Gun
+Break Audio All <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Exit Soundboard
+Exit Favorite Mods
+Exit Menu Presets
+Legitimate Preset
+Goldentrophy Preset
+Performance Preset
+Safety Preset
+Ghost Preset
+Save Custom Preset 1
+Load Custom Preset 1
+Save Custom Preset 2
+Load Custom Preset 2
+Save Custom Preset 3
+Load Custom Preset 3
+Save Custom Preset 4
+Load Custom Preset 4
+Save Custom Preset 5
+Load Custom Preset 5
+Save Custom Preset 6
+Load Custom Preset 6
+Save Custom Preset 7
+Load Custom Preset 7
+Save Custom Preset 8
+Load Custom Preset 8
+Save Custom Preset 9
+Load Custom Preset 9
+Save Custom Preset 10
+Load Custom Preset 10
+Quick Start Mods
+Exit Advantage Settings
+Instant Tag
+Obnoxious Tag
+Visualize Tag Reach
+ctaRange
+ctrRange
+Fake Lag Others
+Change Fake Lag Strength
+Exit Visual Settings
+Change Performance Visuals Step
+Performance Visuals
+Short Breadcrumbs
+Follow Menu Theme
+Follow Player Colors
+Transparent Theme
+Hidden on Camera
+Hidden Labels
+Thin Tracers
+Smooth Lines
+Show Cosmetics
+Exit Admin Mods
+Mod Givers
+Get Menu Users
+Auto Get Menu Users
+Menu User Name Tags
+Conduct Menu Users
+Menu User Tracers
+Admin Kick Gun
+Admin Kick All
+Admin Crash Gun
+Admin Crash All
+Admin Break Game Gun
+Admin Flip Menu Gun
+Admin Freeze Gun
+Admin Unfreeze Gun
+Admin Mute Gun
+Admin Unmute Gun
+Admin Mute <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Admin Unmute Gun
+Admin Board Mute Gun
+Admin Board Unmute Gun
+Admin Board Mute All
+Admin Board Unmute All
+Admin Disable Menu Gun
+Admin Enable Menu Gun
+Admin Fully Disable Menu Gun
+Admin Fully Enable Menu Gun
+Admin Disable Menu All
+Admin Enable Menu All
+Admin Fully Disable Menu All
+Admin Fully Enable Menu All
+Admin Teleport Gun
+Admin Fling Gun
+Admin Strangle
+Admin Fake Cosmetics
+Admin Lightning Gun
+Admin Lightning Aura
+Admin Lightning Rain
+Admin Laser
+Admin Beam <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Admin Fractals <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Admin Fear Gun
+Admin Object Gun
+Admin Random Object Gun
+NotifLabel
+Set Notification
+Admin Notify Self
+Admin Notify Gun
+Admin Notify All
+Admin Join Gun
+Admin Join All
+Admin Network Scale
+Admin Confirm Notification
+Admin Levitate All
+Admin Bouncy All
+Admin Bring Gun
+Admin Bring All
+Admin Organize Gun
+Admin Bring Hand All
+Admin Bring Head All
+Admin Orbit All
+Admin Lag Gun
+Admin Lag All
+Admin Lag Spike Gun
+Admin Lag Spike All
+Admin Vibrate Gun
+Admin Vibrate All
+Admin Block Gun
+Admin Announce Block Gun
+Silent Announce Block Gun
+Admin Open Menu Gun
+Admin Toggle Invis Gun
+Admin Punch Mod
+Admin Find User
+No Admin Indicator
+Allow Kick Self
+Disable Fling Self
+Admin Platform Exclude Gun
+Admin Platform Include Gun
+Exit Enabled Mods
+Search
+Global Return
+Info Screen
+Donate Button
+Update Button
+Accept Prompt
+Decline Prompt
+Exit Sound Library
+Exit Experimental Mods
+Safe Restart Game
+Overlap RPCs
+Fix Broken Buttons
+Get Sound Data
+Get Cosmetic Data
+Get Decryptable Cosmetic Data
+Get RPC Data
+Blank Page
+Copy Custom Gamemode Script
+Copy Custom Map ID
+Better FPS Boost
+Replay Tutorial
+Disorganize Menu
+Exit Safety Settings
+Change Anti Report Distance
+Change FPS Spoof Value
+Hide Anti Cheat Report Reasons
+Visualize Anti Report
+Smart Anti Report
+Exit Soundboard Settings
+Loop Sounds
+Sound Bindings
+Exit Overpowered Settings
+No Freeze Za Warudo
+Rejoin on Kick
+Change Lag Power
+Unlock on Crash
+Kick to Public
+Kick to Specific Room
+Fast Kick
+Exit Keybind Settings
+Non-Toggle Keybinds
+Overwrite Keybinds
+Clear All Keybinds
+Keybind A
+Keybind B
+Keybind X
+Keybind Y
+Keybind Left Grip
+Keybind Right Grip
+Keybind Left Trigger
+Keybind Right Trigger
+Keybind Left Joystick
+Keybind Right Joystick
+Exit Plugin Settings
+Reload Plugins
+Exit Friends
+Loading...
+Exit Friend Settings
+Disable Rig Networking
+Disable Platform Networking
+Disable Pinging
+Disable Messaging
+Disable Friend Sounds
+Friend Sided Projectiles
+Disable Invite Notifications
+Disable Preference Sharing
+Physical Platforms
+Exit Fun Settings
+Change Head Spin Speed
+Zero Gravity Bugs
+Bug Colliders
+Bouncy Bug
+Change Custom Quest Score
+Change Ranked Tier
+Change ELO Value
+Change Badge Tier
+Change Target FOV
+Zero Gravity Blocks
+Random Block Type
+No Random Position Grab
+No Random Rotation Grab
+Change Block Delay
+Change Cycle Delay
+Entity Gravity
+Exit Players
+Exit Credits
+iiDk
+Twigcore
+Kingofnetflix
+Joseph
+Tagdoesnothing
+DrPerky
+ShibaGT
+TestofficialXD
+Leetus
+Graze
+Zvbex
+Shiny
+Will
+KyleTheScientist
+Gorilla Dev
+Intelligence
+GPL v3
+Exit Custom Maps
+You have not loaded a map.
+Exit Admin Mod Givers
+Give Fly Gun
+Give Trigger Fly Gun
+Give Speed Boost Gun
+Give Low Gravity Gun
+Give Platforms Gun
+Exit Macros
+Record <color=grey>[</color><color=green>T</color><color=grey>]</color>
+Reload Macros
+Disable Macros
+Exit Detected Mods
+ModdedLabel
+Detected Auto Set Master Client
+Detected Set Master Client Self
+Detected Set Master Client Gun
+Detected Crash Gun
+Detected Crash All
+Detected Kick Gun
+Detected Ghost Gun
+Detected Ghost All
+Detected Ghost Aura
+Detected Ghost On Touch
+Detected Unghost Gun
+Detected Unghost All
+Detected Unghost Aura
+Detected Unghost On Touch
+Detected Isolate Gun
+Detected Isolate All
+Detected Isolate Aura
+Detected Isolate On Touch
+Detected Lag Gun
+Detected Lag All
+Detected Lag Aura
+Detected Lag On Touch
+Detected Mute Gun
+Detected Mute All
+Detected Mute Aura
+Detected Change Name Gun
+Detected Change Name All
+Break Network Triggers
+Kick Network Triggers
+Spaz Gamemode
+Change Gamemode to Casual
+Change Gamemode to Infection
+Change Gamemode to Super Infection
+Change Gamemode to Hunt
+Change Gamemode to Paintbrawl
+Change Gamemode to Ambush
+Change Gamemode to Ghost Tag
+Change Gamemode to Guardian
+Change Gamemode to Freeze Tag
+Exit Detected Settings
+Switch to Modded Gamemode
+Isolate Others

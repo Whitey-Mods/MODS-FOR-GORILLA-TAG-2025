@@ -1,0 +1,8 @@
+Crystallize Menu;;Explode Menu;;Outline Menu;;Outline Text;;Custom Menu Name;;Particle Spawn Effect;;Animated Title;;Custom Menu Theme;;Custom Watermark;;Disable Enabled GUI
+Exit Favorite Mods;;WASD Fly;;Noclip <color=grey>[</color><color=green>T</color><color=grey>]</color>
+0;;0;;1;;2;;1;;0;;15;;1;;0;;1;;1000;;2;;0;;0;;1;;90;;0;;4;;0;;0;;0;;0;;0;;3;;0;;0;;2;;0;;0;;0;;1;;2;;2;;10;;5;;0;;2;;5;;1;;2;;0;;10;;0;;69;;6;;6;;4;;5418;;ECCA774B19F7BD43;;8;;1;;1;;4000;;7;;0;;2;;0;;1;;0;;15;;90;;0;;10
+2
+1
+10
+A~~B~~X~~Y~~LG~~RG~~LT~~RT~~LJ~~RJ
+
